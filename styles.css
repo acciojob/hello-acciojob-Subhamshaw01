@@ -2,7 +2,7 @@ main{
 	height:"150x";
 background-color:#000000;
 }
-.hello-accio p{
+.hello-accio,p{
 color:#ffffff;
 	margin-left:32px;
 	paddinf:10px;
